@@ -2,7 +2,7 @@
 Generated downscaled Minecraft block textures.
 
 ## Download
-Resource packs can be downloaded at [releases](https://github.com/Jaapp-/DownscaledMC/releases).
+Unfortunately a download cannot be provided due to legal issues, you're still free to run the script yourself.
 
 ## Screenshots
 [BSL Shaders](https://bitslablab.com/) were used in these screenshots.
